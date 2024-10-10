@@ -12,10 +12,11 @@ In this exercise, you will find JavaScript code that contains errors (bugs). You
 
 ## Tips for Finding Bugs
 
+- **Syntax errors**: These kinds of errors will be our worst enemy 😓. You can detect syntax errors by highlighting the variable or function name and checking if VS Code highlights the occurrences.
 - **Arrays and Objects**: Check how elements and properties are accessed. Make sure that indices and elements exist.
 - **Functions and Arrow Functions**: Verify the syntax and how parameters and return values are used.
 - **Callbacks**: Ensure that callback functions are being called correctly and receiving the appropriate arguments.
-- **console.log()**: Use `console.log()` to print values you that are undefined or not behaving as expected. Console.log is your best friend when debugging JavaScript code 😊
+- **console.log()**: Use `console.log()` to print values that are undefined or not behaving as expected. Console is your best friend when debugging JavaScript code 😊
 
 ## Exercises
 
